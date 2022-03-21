@@ -1,1 +1,1 @@
-*atividade de git*
+*atividade*
